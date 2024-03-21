@@ -15,6 +15,7 @@
 
 # Task 4 :- 👇
 ## TITLE :- `Code change to point to the API endpoints in the place holders in index.html.`
+![index_urlchanges](https://github.com/Uday-Pratap-hub/IBM-Application-Development-using-Microservices-and-Serverless/assets/67860426/d6b7a81a-0703-4ba9-8e6d-e9dfcffe288b)
 
 # Task 5 :- 👇
 ## TITLE :- `Deployed front-end application.`
